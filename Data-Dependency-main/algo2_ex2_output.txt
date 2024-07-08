@@ -1,0 +1,10 @@
+Enter the number of blocks: 5
+Block 0: b = b * c 
+Block 1: d = c - a 
+Block 2: a = a + b * c 
+Block 3: c = d + b + a 
+Block 4: e = a - b 
+The pairs of blocks that can be executed in parallel are
+b = b * c ,  d = c - a 
+c = d + b + a ,  e = a - b 
+d = c - a ,  e = a - b 

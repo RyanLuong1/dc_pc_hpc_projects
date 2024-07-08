@@ -1,0 +1,6 @@
+Enter the number of blocks: 3
+Block 0: b = b * c 
+Block 1: d = c - a 
+Block 2: a = a + b * c 
+The pairs of blocks that can be executed in parallel are
+b = b * c ,  d = c - a 

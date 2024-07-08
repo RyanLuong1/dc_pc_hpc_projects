@@ -1,0 +1,9 @@
+Input your instruction: d = a + ( c - d / b )
+Enter the number of blocks: 5
+Block 0: b = b * c 
+Block 1: c = c - a 
+Block 2: a = a + b * c 
+Block 3: d = b + a 
+Block 4: e = c - a 
+The block(s) can be executed in parallel to the instruction
+e = c - a 
